@@ -1,6 +1,6 @@
 # Disposable Email Generator and Receiver :email: :inbox_tray: :outbox_tray:
 
-![Example Image]([example_image.png](https://cdn.discordapp.com/attachments/900836003810533416/1137039690193707139/image.png))
+![Example Image](https://cdn.discordapp.com/attachments/900836003810533416/1137039690193707139/image.png)
 
 ## Description :pencil:
 This Python script allows you to generate disposable emails and receive emails on them. It utilizes the `requests`, `colorama`, `os`, `json`, and `time` modules. By adding a previously generated email to the `config.json`, you can list and continue to receive emails on that address.
